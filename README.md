@@ -1,4 +1,4 @@
-# Coding-Chalange-FDS
+# Coding-Challange-FDS
 Desafio para processo seletivo de desenvolvedor frontend
 # Descrição
 ------
