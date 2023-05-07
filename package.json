@@ -1,0 +1,24 @@
+{
+  "name": "calendar-challange",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.1.12",
+    "@types/node": "^18",
+    "nuxt": "^3.4.3",
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.9",
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "^5.3.0-alpha3",
+    "maska": "^2.1.9",
+    "pinia": "^2.0.35"
+  }
+}
